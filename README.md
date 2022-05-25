@@ -1,12 +1,8 @@
 <h3 align='center'> Hi :wave:, I'm Serg Pomytkin </h3>
 
-I have been working for more than **7 years** in information technology industry.
+Currently, I have been working as **Full Stack QA engineer** for **3 years**.
 
-Currently, I have been working as **QA engineer** for **3 years**.
-
-<a><img width="45%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Latarho&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=onedark&hide_border=true"/></a>
-<a><img width="45%"  alt="My Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latarho&langs_count=3"/></a>
-</p>&langs_count=3
+<a><img width="45%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Latarho&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=cobalt&hide_border=true"/></a>
 
 <p  align="center"
 
