@@ -11,8 +11,9 @@ Currently, I have been working as **QA engineer** for **3 years**.
     </p>
 <p align="center">
 <a><img width="45%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=SaleevaMariia&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=buefy&hide_border=true"/></a>
-<a><img width="45%"  alt="My Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaleevaMariia&layout=compact"/></a>
+<a><img width="45%"  alt="My Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latarho&layout=compact"/></a>
 </p>
+
 <p  align="center"
 
 <code><img width="5%" title="IntelliJ IDEA" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg"></code>
@@ -32,4 +33,4 @@ Currently, I have been working as **QA engineer** for **3 years**.
 </p>
 
 ### My contact
-<a href="https://t.me/MariiaSaleeva" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="MariiaSaleeva" height="30" width="30" /></a>
+<a href="https://t.me/Latarho" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Latarho" height="30" width="30" /></a>
