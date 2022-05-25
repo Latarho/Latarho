@@ -2,7 +2,7 @@
 
 Currently, I have been working as **Full Stack QA engineer** for **3 years**.
 
-<a><img width="50%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Latarho&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=highcontrast&hide_border=true"/></a>
+<a><img width="50%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Latarho&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=dark&hide_border=true"/></a>
 
 <p  align="center"
 
