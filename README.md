@@ -1,8 +1,8 @@
 <h3 align='center'> Hi :wave:, I'm Serg Pomytkin </h3>
 
-:woman_technologist: I have been working for more than **7 years** in information technology industry.
+I have been working for more than **7 years** in information technology industry.
 
-:female_detective: Currently, I have been working as **QA engineer** for **6 years**.
+Currently, I have been working as **QA engineer** for **3 years**.
 
 <p align="center">
   <a href="https://github.com/SaleevaMariia/demowebshop_Tests_UI_API"><img title="UI + API automated tests" width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SaleevaMariia&repo=demowebshop_Tests_UI_API&theme=buefy&border_color=9152C0&title_color=9152C0&text_color=20793B&icon_color=9152C0&show_icons=false" alt="ui + api tests java"   ></a> 
