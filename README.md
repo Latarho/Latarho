@@ -1,4 +1,4 @@
-<h3 align='center'> Hi :wave:, I'm Saleeva Mariia </h3>
+<h3 align='center'> Hi :wave:, I'm Serg Pomytkin </h3>
 
 :woman_technologist: I have been working for more than **7 years** in information technology industry.
 
