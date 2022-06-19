@@ -1,8 +1,5 @@
 <h3 align='center'> Hi :wave:, I'm Serg Pomytkin </h3>
 
-Currently, I have been working as **Full Stack QA engineer** for **3 years**.
-
-<a><img width="50%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Latarho&show_icons=true&line_height=20&icon_color=1CC074&include_all_commits=true&theme=dark&hide_border=true"/></a>
 
 <p  align="center"
 
@@ -25,7 +22,7 @@ Currently, I have been working as **Full Stack QA engineer** for **3 years**.
 ### My contact
 <a href="https://t.me/Latarho" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Latarho" height="30" width="30" /></a>
 
-
+<p  align="center"
 ![github contribution grid snake animation](https://raw.githubusercontent.com/FanaticFiz/FanaticFiz/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+</p>
