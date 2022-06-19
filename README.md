@@ -1,8 +1,5 @@
 <h3 align='center'> Hi :wave:, I'm Serg Pomytkin </h3>
 
-
-<p  align="center"
-
 <code><img width="5%" title="IntelliJ IDEA" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg"></code>
 <code><img width="5%" title="Java" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg"></code>
 <code><img width="5%" title="Selenium" src="https://starchenkov.pro/qa-guru/img/skills/Selenium.svg"></code>
@@ -17,13 +14,11 @@
 <code><img width="5%" title="Appium" src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg"></code>
 <code><img width="5%" title="Browserstack" src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg"></code>
 
-</p>
 
 ### My contact
 <a href="https://t.me/Latarho" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Latarho" height="30" width="30" /></a>
 
-<p  align="center"
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/FanaticFiz/FanaticFiz/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-</p>
